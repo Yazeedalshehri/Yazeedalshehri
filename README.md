@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently IT student at KAU<br>🌱 I’m currently learning Web design <br>Interested in software analysis and design
+Developer 
 
 
 ## 🌐 Socials:
